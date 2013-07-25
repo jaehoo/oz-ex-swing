@@ -1,7 +1,7 @@
-oz-ex-swing
+Java Swing Examples
 ===========
 
-Code samples in swing and applets
+A simple proyect with code samples in Java Swing and Applets
 
 
 Credits
@@ -15,7 +15,7 @@ and people like you :) . Thank you!
 License
 -------
 
-oz-ex-swing is copyright © 2013 by Jaehoo (Alberto Sánchez) and Orbital Zero,inc. It is free software, and may be
+**oz-ex-swing** is copyright © 2013 by Jaehoo (Alberto Sánchez) and Orbital Zero,inc. It is free software, and may be
 redistributed under the terms specified in the `LICENSE` file.
 
 The names and logos for this sample code are trademarks of Orbital Zero, inc.
