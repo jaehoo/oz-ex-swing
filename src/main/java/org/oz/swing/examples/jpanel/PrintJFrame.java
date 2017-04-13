@@ -129,7 +129,7 @@ public class PrintJFrame extends javax.swing.JFrame implements Printable{
 
     public int print(Graphics graphics, PageFormat pageFormat, int pageIndex) throws PrinterException {
 
-          if (pageIndex > 0) { /* We have only one page, and 'page' is zero-based */
+        if (pageIndex > 0) { /* We have only one page, and 'page' is zero-based */
             return NO_SUCH_PAGE;
         }
 
